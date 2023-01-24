@@ -18,7 +18,9 @@ Show Record: It shows the record is similar to printing all the elements of the 
 Exception Handling
 Although the implementation of exception handling is quite simple few things must be taken into consideration, and I made sure that most of the error that the user can have are handled.
  
-*Please use the client file as the main file because it has the main function*
+
+
+Please use the client file as the main file because it has the main function*
 UserName: SaifAlmajd
 Password: Admin
 
